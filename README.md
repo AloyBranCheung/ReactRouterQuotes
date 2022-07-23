@@ -7,6 +7,8 @@
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
 </div>
 
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+
 Add/remove quotes and add comments to quotes, made with React Router
 
 Sample:
